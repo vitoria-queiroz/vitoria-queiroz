@@ -4,7 +4,7 @@
 Me chamo Vitória Queiroz, tenho 20 anos e moro no Litoral Norte de SP. Tenho experiências com suporte ao cliente e como auxiliar adiministrativo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec de São Sebastião. Sou apaixonada por tecnologia e estou me empenhando em me tornar uma desenvolvedora FullStack
 
 <p align="left">
-    <a href = "mailto:contato.vitoriaellen03@gmail.com">
+    <a href = "mailto:vitoriaqueirozzz06@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
         </a>
     <a href="https://www.linkedin.com/in/vitoria--oliveira/">
